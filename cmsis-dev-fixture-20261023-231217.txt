@@ -1,0 +1,4 @@
+CMSIS-Dev disposable remote fixture.
+Purpose: exercise review-pr and create-pr workflows.
+Created: 2026-10-23T23:12:17+02:00
+Keep open until parent tests complete.
