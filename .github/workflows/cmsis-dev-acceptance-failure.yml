@@ -1,0 +1,12 @@
+﻿name: CMSIS Dev acceptance failure
+
+on:
+  push:
+    branches:
+      - cmsis-dev-fixture-20261023-231217
+
+jobs:
+  acceptance-failure:
+    runs-on: ubuntu-latest
+    steps:
+      - run: exit 1
